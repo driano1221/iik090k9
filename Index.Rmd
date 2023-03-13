@@ -61,7 +61,6 @@ class: inverse, center, middle
 
 - O coeficiente de correlação entre X e Y pode ser estimado pelo coeficiente de correlação amostral 𝑟_𝑋𝑌 obtidos entre uma amostra de n pares (xi, yi);
 
-- $r_{XY} = \dfrac{\sum_{i=1}^n(xi-\bar{X})(yi-\bar{Y})}{\sqrt{{\sum_{i=1}^n(xi-\bar{X})}}\sqrt{{\sum_{i=1}^n(yi-\bar{Y})}}}$
 
 ---
 # Gráficos de Controle para Processos Autocorrelacionados
